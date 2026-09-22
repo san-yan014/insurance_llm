@@ -1,0 +1,11 @@
+anthropic
+nltk
+scikit-learn
+gensim
+textblob
+beautifulsoup4
+lxml
+pandas
+numpy
+matplotlib
+openpyxl

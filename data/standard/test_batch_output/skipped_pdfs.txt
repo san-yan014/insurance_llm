@@ -1,0 +1,13 @@
+2016-02-05_Vol278_No05.pdf: identify stage failed: invalid_request_error: messages.0.content.0.document.source.base64: PDF exceeds 32 MB maximum: 39786476 bytes > 33554432 bytes
+2016-03-18_Vol278_No11.pdf: identify stage failed: invalid_request_error: messages.0.content.0.document.source.base64: PDF exceeds 32 MB maximum: 33715520 bytes > 33554432 bytes
+2016-10-28_Vol279_No13.pdf: identify stage failed: parse error: no JSON found in response: ''
+2017-10-20_Vol281_No08.pdf: identify stage failed: parse error: no JSON found in response: ''
+2017-12-15_Vol281_No12.pdf: identify stage failed: parse error: Expecting ',' delimiter: line 3 column 138 (char 272)
+2018-06-22_Vol282_No13.pdf: identify stage failed: parse error: no JSON found in response: ''
+2018-12-21_Vol283_No12.pdf: identify stage failed: PDF too large to submit: 41766478 bytes > 33554432 bytes (32 MB limit)
+2019-03-22_Vol284_No06.pdf: identify stage failed: PDF too large to submit: 43380775 bytes > 33554432 bytes (32 MB limit)
+2019-11-01_Vol285_No09.pdf: identify stage failed: PDF too large to submit: 37657779 bytes > 33554432 bytes (32 MB limit)
+2020-10-30_Vol287_No09.pdf: identify stage failed: invalid_request_error: messages.0.content.0.document.source.base64: PDF exceeds 32 MB maximum: 42851168 bytes > 33554432 bytes
+2023-03-17_Vol292_No06.pdf: identify stage failed: invalid_request_error: messages.0.content.0.document.source.base64: PDF exceeds 32 MB maximum: 33958404 bytes > 33554432 bytes
+2024-01-05_Vol294_No01.pdf: identify stage failed: parse error: no JSON found in response: ''
+2024-04-12_Vol294_No08.pdf: identify stage failed: parse error: no JSON found in response: ''

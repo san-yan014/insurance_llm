@@ -1,0 +1,17 @@
+# folders 
+
+env/
+manuel_review_of_output/
+__pycache__/
+
+# files 
+
+studies related to insurance.docx
+
+*.xlsx
+*.json
+*.sh
+*.pdf 
+*.gz
+*.pyc
+*.DS_Store

@@ -1,0 +1,702 @@
+
+job started on scc-pd7 at Wed Aug 12 22:10:20 EDT 2026
+17 PDFs in this run, 16 not yet done
+identify round 1: submitted batch 1/2 (13 requests) -> msgbatch_01DD5uxaMkxKew69L65BqBWF
+identify round 1: submitted batch 2/2 (3 requests) -> msgbatch_01GKXegEbjT5EZwSnfVCDi2t
+identify round 1: batch msgbatch_01GKXegEbjT5EZwSnfVCDi2t ended (3 succeeded, 0 errored)
+ identify round 1: batch msgbatch_01DD5uxaMkxKew69L65BqBWF ended (13 succeeded, 0 errored)
+identify round 1: all 2 batch(es) ended
+  identify PARSE FAILED for 2016-09-16_Vol279_No07: Expecting ',' delimiter: line 1 column 772 (char 771)
+  identify PARSE FAILED for 2016-06-03_Vol278_No22: no JSON found in response: ''
+  identify PARSE FAILED for 2016-06-17_Vol278_No24: no JSON found in response: ''
+identify round 2: submitted batch 1/1 (3 requests) -> msgbatch_015XUWXu2ZGy89RgfqLDQvsh
+identify round 2: batch msgbatch_015XUWXu2ZGy89RgfqLDQvsh ended (3 succeeded, 0 errored)
+identify round 2: all 1 batch(es) ended
+  identify PARSE FAILED for 2016-09-16_Vol279_No07: no JSON found in response: ''
+  identify PARSE FAILED for 2016-06-17_Vol278_No24: no JSON found in response: ''
+identify round 3: submitted batch 1/1 (2 requests) -> msgbatch_01JygH7FpnsXAvVatNAhrV1B
+identify round 3: batch msgbatch_01JygH7FpnsXAvVatNAhrV1B ended (2 succeeded, 0 errored)
+identify round 3: all 1 batch(es) ended
+extract round 1: submitted batch 1/2 (184 requests) -> msgbatch_01AzYLexL2QwKe6neN1PDewy
+extract round 1: submitted batch 2/2 (8 requests) -> msgbatch_01DJoAqqF47p6iCRGoHHanM9
+extract round 1: batch msgbatch_01DJoAqqF47p6iCRGoHHanM9 ended (8 succeeded, 0 errored)
+extract round 1: batch msgbatch_01AzYLexL2QwKe6neN1PDewy ended (184 succeeded, 0 errored)
+extract round 1: all 2 batch(es) ended
+  extract TRUNCATED for 2016-04-08_Vol278_No14#1, retrying with max_tokens=16000
+extract round 2: submitted batch 1/1 (7 requests) -> msgbatch_017tnLJpZ4QFkhoZd5HnXWxe
+extract round 2: batch msgbatch_017tnLJpZ4QFkhoZd5HnXWxe ended (7 succeeded, 0 errored)
+extract round 2: all 1 batch(es) ended
+extract round 3: submitted batch 1/1 (2 requests) -> msgbatch_016i1NH6Nx7BfH9Xdpv1EwAk
+extract round 3: batch msgbatch_016i1NH6Nx7BfH9Xdpv1EwAk ended (2 succeeded, 0 errored)
+extract round 3: all 1 batch(es) ended
+extract round 4: submitted batch 1/1 (1 requests) -> msgbatch_01Q6qCixKDTcwNvuTfUdEoRo
+extract round 4: batch msgbatch_01Q6qCixKDTcwNvuTfUdEoRo ended (1 succeeded, 0 errored)
+extract round 4: all 1 batch(es) ended
+2016-08-05_Vol279_No03: 14 articles, 0 failed, 0 flagged for review
+2016-08-19_Vol279_No04: 13 articles, 0 failed, 0 flagged for review
+2016-09-02_Vol279_No05: 13 articles, 0 failed, 0 flagged for review
+2016-04-08_Vol278_No14: 12 articles, 0 failed, 0 flagged for review
+2016-07-22_Vol279_No02: 12 articles, 0 failed, 0 flagged for review
+2016-06-24_Vol278_No25: 9 articles, 0 failed, 0 flagged for review
+2016-07-08_Vol278_No26: 13 articles, 0 failed, 0 flagged for review
+2016-06-10_Vol278_No23: 13 articles, 0 failed, 0 flagged for review
+2016-09-09_Vol279_No06: 11 articles, 0 failed, 0 flagged for review
+2016-04-15_Vol278_No15: 11 articles, 0 failed, 0 flagged for review
+2016-09-23_Vol279_No08: 12 articles, 0 failed, 0 flagged for review
+2016-09-30_Vol279_No09: 10 articles, 0 failed, 0 flagged for review
+2016-10-07_Vol279_No10: 8 articles, 0 failed, 0 flagged for review
+2016-06-03_Vol278_No22: 13 articles, 0 failed, 0 flagged for review
+2016-06-17_Vol278_No24: 16 articles, 0 failed, 1 flagged for review
+2016-09-16_Vol279_No07: 12 articles, 0 failed, 0 flagged for review
+2 PDF(s) need manual handling -- see skipped_pdfs.txt
+job finished at Thu Aug 13 07:50:19 EDT 2026
+job started on scc-wg2 at Fri Aug 14 20:18:35 EDT 2026
+35 PDFs in this run, 35 not yet done
+identify round 1: submitted batch 1/3 (14 requests) -> msgbatch_01G911qGt1xGy1GEguhbZcS3
+identify round 1: submitted batch 2/3 (14 requests) -> msgbatch_01BaTk5KjZKdKfHP5v4ivEjw
+identify round 1: submitted batch 3/3 (7 requests) -> msgbatch_01WCvYTJHjC6K1FUkH6jM6aF
+identify round 1: batch msgbatch_01WCvYTJHjC6K1FUkH6jM6aF ended (7 succeeded, 0 errored)
+identify round 1: batch msgbatch_01G911qGt1xGy1GEguhbZcS3 ended (14 succeeded, 0 errored)
+identify round 1: batch msgbatch_01BaTk5KjZKdKfHP5v4ivEjw ended (14 succeeded, 0 errored)
+identify round 1: all 3 batch(es) ended
+  identify PARSE FAILED for 2017-01-13_Vol280_No02: no JSON found in response: ''
+  identify PARSE FAILED for 2016-10-28_Vol279_No13: no JSON found in response: ''
+  identify PARSE FAILED for 2017-03-17_Vol280_No11: no JSON found in response: ''
+identify round 2: submitted batch 1/1 (3 requests) -> msgbatch_01SvGdu8KtqE1TbDf4jLo91E
+identify round 2: batch msgbatch_01SvGdu8KtqE1TbDf4jLo91E ended (3 succeeded, 0 errored)
+identify round 2: all 1 batch(es) ended
+  identify PARSE FAILED for 2017-01-13_Vol280_No02: no JSON found in response: ''
+  identify PARSE FAILED for 2016-10-28_Vol279_No13: no JSON found in response: ''
+identify round 3: submitted batch 1/1 (2 requests) -> msgbatch_016h8xrCjKdT4ZkgUsUySvT7
+identify round 3: batch msgbatch_016h8xrCjKdT4ZkgUsUySvT7 ended (2 succeeded, 0 errored)
+identify round 3: all 1 batch(es) ended
+  identify PARSE FAILED for 2016-10-28_Vol279_No13: no JSON found in response: ''
+  identify exhausted 3 retry rounds for 2016-10-28_Vol279_No13: parse error: no JSON found in response: ''
+2016-10-28_Vol279_No13: identify failed permanently -- wrote 2016-10-28_Vol279_No13.errors.json so this isn't silently missing
+extract round 1: submitted batch 1/2 (253 requests) -> msgbatch_01AUQok9mA67iCaSLj4e9Ki8
+extract round 1: submitted batch 2/2 (157 requests) -> msgbatch_01HYBppJG9affwYoGAk3vF93
+extract round 1: batch msgbatch_01HYBppJG9affwYoGAk3vF93 ended (157 succeeded, 0 errored)
+extract round 1: batch msgbatch_01AUQok9mA67iCaSLj4e9Ki8 ended (253 succeeded, 0 errored)
+extract round 1: all 2 batch(es) ended
+  extract TRUNCATED for 2016-12-16_Vol279_No20#1, retrying with max_tokens=16000
+  extract TRUNCATED for 2016-12-16_Vol279_No20#7, retrying with max_tokens=16000
+  extract TRUNCATED for 2016-12-02_Vol279_No18#1, retrying with max_tokens=16000
+  extract TRUNCATED for 2016-11-18_Vol279_No16#1, retrying with max_tokens=16000
+  extract TRUNCATED for 2017-02-10_Vol280_No06#1, retrying with max_tokens=16000
+  extract TRUNCATED for 2017-03-17_Vol280_No11#1, retrying with max_tokens=16000
+extract round 2: submitted batch 1/1 (24 requests) -> msgbatch_01841deX6U9RFqpVFLqMe1SC
+extract round 2: batch msgbatch_01841deX6U9RFqpVFLqMe1SC ended (24 succeeded, 0 errored)
+extract round 2: all 1 batch(es) ended
+  extract TRUNCATED for 2016-12-16_Vol279_No20#1, retrying with max_tokens=32000
+extract round 3: submitted batch 1/1 (7 requests) -> msgbatch_015MNDW444KFabzTSEmoChWm
+extract round 3: batch msgbatch_015MNDW444KFabzTSEmoChWm ended (7 succeeded, 0 errored)
+extract round 3: all 1 batch(es) ended
+extract round 4: submitted batch 1/1 (2 requests) -> msgbatch_01YUTWB2iBLMoQwT7dgYKDN1
+extract round 4: batch msgbatch_01YUTWB2iBLMoQwT7dgYKDN1 ended (2 succeeded, 0 errored)
+extract round 4: all 1 batch(es) ended
+2016-11-11_Vol279_No15: 12 articles, 0 failed, 0 flagged for review
+2016-11-25_Vol279_No17: 10 articles, 0 failed, 0 flagged for review
+2016-12-16_Vol279_No20: 9 articles, 0 failed, 0 flagged for review
+2016-12-02_Vol279_No18: 12 articles, 0 failed, 0 flagged for review
+2017-01-27_Vol280_No04: 11 articles, 0 failed, 0 flagged for review
+2016-10-14_Vol279_No11: 13 articles, 0 failed, 0 flagged for review
+2017-01-20_Vol280_No03: 11 articles, 0 failed, 0 flagged for review
+2016-11-04_Vol279_No14: 10 articles, 0 failed, 0 flagged for review
+2016-12-09_Vol279_No19: 13 articles, 0 failed, 0 flagged for review
+2016-11-18_Vol279_No16: 8 articles, 0 failed, 0 flagged for review
+2017-01-06_Vol280_No01: 13 articles, 0 failed, 0 flagged for review
+2016-10-21_Vol279_No12: 10 articles, 0 failed, 0 flagged for review
+2017-04-07_Vol280_No14: 12 articles, 0 failed, 0 flagged for review
+2017-02-03_Vol280_No05: 12 articles, 0 failed, 0 flagged for review
+2017-05-05_Vol280_No18: 12 articles, 0 failed, 0 flagged for review
+2017-03-24_Vol280_No12: 13 articles, 0 failed, 0 flagged for review
+2017-03-03_Vol280_No09: 15 articles, 0 failed, 0 flagged for review
+2017-04-21_Vol280_No16: 12 articles, 0 failed, 0 flagged for review
+2017-03-10_Vol280_No10: 17 articles, 0 failed, 0 flagged for review
+2017-02-17_Vol280_No07: 12 articles, 0 failed, 0 flagged for review
+2017-03-31_Vol280_No13: 12 articles, 0 failed, 0 flagged for review
+2017-02-24_Vol280_No08: 10 articles, 0 failed, 0 flagged for review
+2017-02-10_Vol280_No06: 7 articles, 0 failed, 0 flagged for review
+2017-04-14_Vol280_No15: 11 articles, 0 failed, 1 flagged for review
+2017-04-28_Vol280_No17: 10 articles, 0 failed, 1 flagged for review
+2017-06-09_Vol280_No23: 13 articles, 0 failed, 0 flagged for review
+2017-05-19_Vol280_No20: 13 articles, 0 failed, 0 flagged for review
+2017-06-23_Vol280_No25: 11 articles, 0 failed, 0 flagged for review
+2017-06-30_Vol280_No26: 10 articles, 0 failed, 0 flagged for review
+2017-06-02_Vol280_No22: 12 articles, 0 failed, 0 flagged for review
+2017-05-26_Vol280_No21: 13 articles, 0 failed, 0 flagged for review
+2017-05-12_Vol280_No19: 14 articles, 0 failed, 0 flagged for review
+2017-03-17_Vol280_No11: 24 articles, 0 failed, 0 flagged for review
+2017-01-13_Vol280_No02: 13 articles, 0 failed, 0 flagged for review
+3 PDF(s) need manual handling -- see skipped_pdfs.txt
+job finished at Fri Aug 14 21:13:56 EDT 2026
+job started on scc-pa7 at Tue Aug 18 11:26:11 EDT 2026
+39 PDFs in this run, 39 not yet done
+  identify SKIPPED for 2018-12-21_Vol283_No12 (oversized, never submitted): PDF too large to submit: 41766478 bytes > 33554432 bytes (32 MB limit)
+identify round 1: submitted batch 1/4 (12 requests) -> msgbatch_01SdomkPLczC8onvgLyMvRaL
+identify round 1: submitted batch 2/4 (12 requests) -> msgbatch_01EByMTQgs4JSqsm2LpDbS2d
+identify round 1: submitted batch 3/4 (11 requests) -> msgbatch_01Gx1xD9LDTetX9UuoiNgQdX
+identify round 1: submitted batch 4/4 (3 requests) -> msgbatch_0196M1WAjLiZ3minf3eY34wn
+identify round 1: batch msgbatch_01SdomkPLczC8onvgLyMvRaL ended (12 succeeded, 0 errored)
+identify round 1: batch msgbatch_01EByMTQgs4JSqsm2LpDbS2d ended (12 succeeded, 0 errored)
+identify round 1: batch msgbatch_01Gx1xD9LDTetX9UuoiNgQdX ended (11 succeeded, 0 errored)
+identify round 1: batch msgbatch_0196M1WAjLiZ3minf3eY34wn ended (3 succeeded, 0 errored)
+identify round 1: all 4 batch(es) ended
+  identify PARSE FAILED for 2017-10-20_Vol281_No08: no JSON found in response: ''
+  identify PARSE FAILED for 2016-10-28_Vol279_No13: no JSON found in response: ''
+  identify PARSE FAILED for 2017-12-15_Vol281_No12: no JSON found in response: ''
+  identify PARSE FAILED for 2018-06-22_Vol282_No13: no JSON found in response: ''
+  identify PARSE FAILED for 2018-07-20_Vol283_No01: Expecting ',' delimiter: line 1 column 107 (char 106)
+identify round 2: submitted batch 1/1 (5 requests) -> msgbatch_01HdkeRRMeHCUbEhhHmZiWEe
+identify round 2: batch msgbatch_01HdkeRRMeHCUbEhhHmZiWEe ended (5 succeeded, 0 errored)
+identify round 2: all 1 batch(es) ended
+  identify PARSE FAILED for 2017-12-15_Vol281_No12: Expecting ',' delimiter: line 3 column 138 (char 272)
+  identify PARSE FAILED for 2016-10-28_Vol279_No13: no JSON found in response: ''
+  identify PARSE FAILED for 2018-06-22_Vol282_No13: no JSON found in response: ''
+  identify PARSE FAILED for 2017-10-20_Vol281_No08: no JSON found in response: ''
+identify round 3: submitted batch 1/1 (4 requests) -> msgbatch_01LMLUVyJqyiUq9vpMSdSRwr
+identify round 3: batch msgbatch_01LMLUVyJqyiUq9vpMSdSRwr ended (4 succeeded, 0 errored)
+identify round 3: all 1 batch(es) ended
+  identify PARSE FAILED for 2017-10-20_Vol281_No08: no JSON found in response: ''
+  identify PARSE FAILED for 2018-06-22_Vol282_No13: no JSON found in response: ''
+  identify PARSE FAILED for 2017-12-15_Vol281_No12: Expecting ',' delimiter: line 3 column 138 (char 272)
+  identify PARSE FAILED for 2016-10-28_Vol279_No13: no JSON found in response: ''
+  identify exhausted 3 retry rounds for 2017-10-20_Vol281_No08: parse error: no JSON found in response: ''
+  identify exhausted 3 retry rounds for 2018-06-22_Vol282_No13: parse error: no JSON found in response: ''
+  identify exhausted 3 retry rounds for 2017-12-15_Vol281_No12: parse error: Expecting ',' delimiter: line 3 column 138 (char 272)
+  identify exhausted 3 retry rounds for 2016-10-28_Vol279_No13: parse error: no JSON found in response: ''
+2018-12-21_Vol283_No12: identify failed permanently -- wrote 2018-12-21_Vol283_No12.errors.json so this isn't silently missing
+2017-10-20_Vol281_No08: identify failed permanently -- wrote 2017-10-20_Vol281_No08.errors.json so this isn't silently missing
+2018-06-22_Vol282_No13: identify failed permanently -- wrote 2018-06-22_Vol282_No13.errors.json so this isn't silently missing
+2017-12-15_Vol281_No12: identify failed permanently -- wrote 2017-12-15_Vol281_No12.errors.json so this isn't silently missing
+2016-10-28_Vol279_No13: identify failed permanently -- wrote 2016-10-28_Vol279_No13.errors.json so this isn't silently missing
+7 PDF(s) need manual handling -- see skipped_pdfs.txt
+extract round 1: submitted batch 1/2 (241 requests) -> msgbatch_01EemKxdLdLHXxtiRhj7yheh
+extract round 1: submitted batch 2/2 (163 requests) -> msgbatch_012yZLMoqEgzTUSfz7aUeYoy
+extract round 1: still waiting after 4.6m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0; msgbatch_01EemKxdLdLHXxtiRhj7yheh: processing=241 succeeded=0 errored=0
+extract round 1: still waiting after 9.6m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0; msgbatch_01EemKxdLdLHXxtiRhj7yheh: processing=241 succeeded=0 errored=0
+extract round 1: still waiting after 14.7m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0; msgbatch_01EemKxdLdLHXxtiRhj7yheh: processing=241 succeeded=0 errored=0
+extract round 1: still waiting after 19.8m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0; msgbatch_01EemKxdLdLHXxtiRhj7yheh: processing=241 succeeded=0 errored=0
+extract round 1: batch msgbatch_01EemKxdLdLHXxtiRhj7yheh ended (241 succeeded, 0 errored)
+extract round 1: still waiting after 24.8m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 29.8m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 34.9m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 39.9m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 45.0m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 50.0m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 55.0m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 60.1m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 65.1m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 70.1m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 75.2m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 80.2m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 85.2m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 90.3m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 95.3m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 100.3m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 105.4m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 110.4m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 115.5m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 120.5m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 125.5m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 130.5m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 135.6m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 140.6m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 145.7m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 150.7m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 155.8m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 160.8m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 165.8m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 170.9m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 175.9m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 180.9m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 186.0m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 191.0m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 196.1m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 201.1m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 206.1m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 211.2m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 216.2m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 221.2m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 226.3m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 231.3m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 236.4m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 241.4m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 246.4m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 251.5m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 256.5m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 261.6m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 266.6m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 271.7m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 276.7m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 281.7m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 286.8m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 291.8m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 296.8m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 301.9m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 306.9m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 311.9m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 317.0m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: still waiting after 322.0m -- msgbatch_012yZLMoqEgzTUSfz7aUeYoy: processing=163 succeeded=0 errored=0
+extract round 1: batch msgbatch_012yZLMoqEgzTUSfz7aUeYoy ended (163 succeeded, 0 errored)
+extract round 1: all 2 batch(es) ended
+  extract TRUNCATED for 2017-11-17_Vol281_No10#1, retrying with max_tokens=16000
+  extract TRUNCATED for 2018-07-06_Vol282_No14#0, retrying with max_tokens=16000
+  extract TRUNCATED for 2018-06-08_Vol282_No12#4, retrying with max_tokens=16000
+  extract TRUNCATED for 2018-11-09_Vol283_No09#8, retrying with max_tokens=16000
+  extract TRUNCATED for 2018-08-17_Vol283_No03#0, retrying with max_tokens=16000
+extract round 2: submitted batch 1/1 (23 requests) -> msgbatch_011scfSzuFKoBgVM3oHCoy3d
+extract round 2: still waiting after 4.5m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 9.6m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 14.6m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 19.7m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 24.7m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 29.7m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 34.8m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 39.8m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 44.8m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 49.9m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 54.9m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 60.0m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 65.0m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 70.0m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 75.1m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: still waiting after 80.1m -- msgbatch_011scfSzuFKoBgVM3oHCoy3d: processing=23 succeeded=0 errored=0
+extract round 2: batch msgbatch_011scfSzuFKoBgVM3oHCoy3d ended (23 succeeded, 0 errored)
+extract round 2: all 1 batch(es) ended
+  extract TRUNCATED for 2017-11-17_Vol281_No10#1, retrying with max_tokens=32000
+extract round 3: submitted batch 1/1 (10 requests) -> msgbatch_014pGtHUWmUp4wmjpYu7Rrtr
+extract round 3: batch msgbatch_014pGtHUWmUp4wmjpYu7Rrtr ended (10 succeeded, 0 errored)
+extract round 3: all 1 batch(es) ended
+  extract TRUNCATED for 2018-08-03_Vol283_No02#1, retrying with max_tokens=16000
+extract round 4: submitted batch 1/1 (6 requests) -> msgbatch_01KREdJtPkjEyukZ5mFvLhw2
+extract round 4: batch msgbatch_01KREdJtPkjEyukZ5mFvLhw2 ended (6 succeeded, 0 errored)
+extract round 4: all 1 batch(es) ended
+2017-08-11_Vol281_No03: 12 articles, 0 failed, 1 flagged for review
+2017-11-17_Vol281_No10: 10 articles, 0 failed, 0 flagged for review
+2017-08-25_Vol281_No04: 11 articles, 0 failed, 0 flagged for review
+2017-10-06_Vol281_No07: 10 articles, 0 failed, 0 flagged for review
+2017-09-08_Vol281_No05: 11 articles, 0 failed, 0 flagged for review
+2017-09-22_Vol281_No06: 18 articles, 0 failed, 0 flagged for review
+2017-11-03_Vol281_No09: 10 articles, 0 failed, 0 flagged for review
+2017-12-01_Vol281_No11: 13 articles, 0 failed, 1 flagged for review
+2017-07-28_Vol281_No02: 11 articles, 0 failed, 0 flagged for review
+2017-07-14_Vol281_No01: 14 articles, 0 failed, 0 flagged for review
+2018-02-16_Vol282_No04: 14 articles, 0 failed, 0 flagged for review
+2018-03-16_Vol282_No06: 15 articles, 0 failed, 0 flagged for review
+2018-04-13_Vol282_No08: 11 articles, 0 failed, 0 flagged for review
+2018-05-11_Vol282_No10: 12 articles, 0 failed, 0 flagged for review
+2018-03-30_Vol282_No07: 11 articles, 0 failed, 0 flagged for review
+2018-01-19_Vol282_No02: 12 articles, 0 failed, 1 flagged for review
+2018-02-02_Vol282_No03: 15 articles, 0 failed, 1 flagged for review
+2018-03-02_Vol282_No05: 15 articles, 0 failed, 0 flagged for review
+2018-01-05_Vol282_No01: 10 articles, 0 failed, 0 flagged for review
+2018-05-25_Vol282_No11: 9 articles, 0 failed, 0 flagged for review
+2018-04-27_Vol282_No09: 11 articles, 0 failed, 0 flagged for review
+2018-10-26_Vol283_No08: 15 articles, 0 failed, 0 flagged for review
+2018-08-17_Vol283_No03: 7 articles, 0 failed, 0 flagged for review
+2018-08-03_Vol283_No02: 13 articles, 0 failed, 0 flagged for review
+2018-08-31_Vol283_No04: 12 articles, 0 failed, 0 flagged for review
+2018-10-12_Vol283_No07: 8 articles, 0 failed, 1 flagged for review
+2018-09-28_Vol283_No06: 15 articles, 0 failed, 0 flagged for review
+2018-07-06_Vol282_No14: 14 articles, 0 failed, 0 flagged for review
+2018-06-08_Vol282_No12: 8 articles, 0 failed, 0 flagged for review
+2018-09-14_Vol283_No05: 11 articles, 0 failed, 0 flagged for review
+2018-12-07_Vol283_No11: 9 articles, 0 failed, 0 flagged for review
+2018-11-09_Vol283_No09: 12 articles, 0 failed, 0 flagged for review
+2018-11-23_Vol283_No10: 12 articles, 0 failed, 0 flagged for review
+2018-07-20_Vol283_No01: 13 articles, 0 failed, 0 flagged for review
+7 PDF(s) need manual handling -- see skipped_pdfs.txt
+job finished at Tue Aug 18 18:29:32 EDT 2026
+job started on scc-fb4 at Mon Aug 24 14:02:02 EDT 2026
+26 PDFs in this run, 26 not yet done
+  identify SKIPPED for 2019-03-22_Vol284_No06 (oversized, never submitted): PDF too large to submit: 43380775 bytes > 33554432 bytes (32 MB limit)
+  identify SKIPPED for 2019-11-01_Vol285_No09 (oversized, never submitted): PDF too large to submit: 37657779 bytes > 33554432 bytes (32 MB limit)
+identify round 1: submitted batch 1/3 (10 requests) -> msgbatch_017NsHyxHViyozejgAUxRP2F
+identify round 1: submitted batch 2/3 (10 requests) -> msgbatch_015xpo2RFtM118SfFJbaVafQ
+identify round 1: submitted batch 3/3 (4 requests) -> msgbatch_01P82kk2DxDnY7CCBh4w82Uh
+identify round 1: batch msgbatch_015xpo2RFtM118SfFJbaVafQ ended (10 succeeded, 0 errored)
+identify round 1: batch msgbatch_01P82kk2DxDnY7CCBh4w82Uh ended (4 succeeded, 0 errored)
+identify round 1: batch msgbatch_017NsHyxHViyozejgAUxRP2F ended (10 succeeded, 0 errored)
+identify round 1: all 3 batch(es) ended
+  identify PARSE FAILED for 2019-05-31_Vol284_No11: no JSON found in response: ''
+  identify PARSE FAILED for 2019-04-05_Vol284_No07: no JSON found in response: ''
+  identify PARSE FAILED for 2019-07-26_Vol285_No02: no JSON found in response: ''
+  identify PARSE FAILED for 2019-06-28_Vol284_No13: no JSON found in response: ''
+  identify PARSE FAILED for 2019-08-09_Vol285_No03: Expecting ',' delimiter: line 7 column 83 (char 595)
+  identify PARSE FAILED for 2019-12-13_Vol285_No12: no JSON found in response: ''
+  identify PARSE FAILED for 2019-11-29_Vol285_No11: no JSON found in response: ''
+identify round 2: submitted batch 1/1 (7 requests) -> msgbatch_01K4jTVmnNvxJo66A3ETYdZt
+identify round 2: batch msgbatch_01K4jTVmnNvxJo66A3ETYdZt ended (7 succeeded, 0 errored)
+identify round 2: all 1 batch(es) ended
+  identify PARSE FAILED for 2019-08-09_Vol285_No03: Expecting ',' delimiter: line 13 column 69 (char 1100)
+  identify PARSE FAILED for 2019-07-26_Vol285_No02: no JSON found in response: ''
+  identify PARSE FAILED for 2019-05-31_Vol284_No11: no JSON found in response: ''
+identify round 3: submitted batch 1/1 (3 requests) -> msgbatch_014X8pkhP1Ann4yAGg32iUbH
+identify round 3: batch msgbatch_014X8pkhP1Ann4yAGg32iUbH ended (3 succeeded, 0 errored)
+identify round 3: all 1 batch(es) ended
+2019-03-22_Vol284_No06: identify failed permanently -- wrote 2019-03-22_Vol284_No06.errors.json so this isn't silently missing
+2019-11-01_Vol285_No09: identify failed permanently -- wrote 2019-11-01_Vol285_No09.errors.json so this isn't silently missing
+9 PDF(s) need manual handling -- see skipped_pdfs.txt
+extract round 1: submitted batch 1/2 (160 requests) -> msgbatch_0117omr92LFAXd7myAj7Urc7
+extract round 1: submitted batch 2/2 (107 requests) -> msgbatch_017j3KGX9X1N9Zm1iVqbitTH
+extract round 1: batch msgbatch_0117omr92LFAXd7myAj7Urc7 ended (160 succeeded, 0 errored)
+extract round 1: batch msgbatch_017j3KGX9X1N9Zm1iVqbitTH ended (107 succeeded, 0 errored)
+extract round 1: all 2 batch(es) ended
+  extract TRUNCATED for 2019-01-11_Vol284_No01#0, retrying with max_tokens=16000
+  extract TRUNCATED for 2019-05-17_Vol284_No10#1, retrying with max_tokens=16000
+  extract TRUNCATED for 2019-09-20_Vol285_No06#0, retrying with max_tokens=16000
+  extract TRUNCATED for 2019-04-19_Vol284_No08#1, retrying with max_tokens=16000
+  extract TRUNCATED for 2019-01-25_Vol284_No02#7, retrying with max_tokens=16000
+  extract TRUNCATED for 2019-06-28_Vol284_No13#0, retrying with max_tokens=16000
+  extract TRUNCATED for 2019-11-29_Vol285_No11#1, retrying with max_tokens=16000
+  extract TRUNCATED for 2019-04-05_Vol284_No07#1, retrying with max_tokens=16000
+  extract TRUNCATED for 2019-12-27_Vol285_No13#1, retrying with max_tokens=16000
+extract round 2: submitted batch 1/1 (19 requests) -> msgbatch_019V9NJ8dpsUnCiRCPi4E8bn
+extract round 2: batch msgbatch_019V9NJ8dpsUnCiRCPi4E8bn ended (19 succeeded, 0 errored)
+extract round 2: all 1 batch(es) ended
+  extract TRUNCATED for 2019-09-20_Vol285_No06#0, retrying with max_tokens=32000
+  extract TRUNCATED for 2019-10-04_Vol285_No07#1, retrying with max_tokens=16000
+  extract TRUNCATED for 2019-01-25_Vol284_No02#7, retrying with max_tokens=32000
+extract round 3: submitted batch 1/1 (4 requests) -> msgbatch_017L5ED7iQHDbrmXTnoBFBRZ
+extract round 3: still waiting after 4.5m -- msgbatch_017L5ED7iQHDbrmXTnoBFBRZ: processing=4 succeeded=0 errored=0
+extract round 3: batch msgbatch_017L5ED7iQHDbrmXTnoBFBRZ ended (4 succeeded, 0 errored)
+extract round 3: all 1 batch(es) ended
+2019-01-25_Vol284_No02: 11 articles, 0 failed, 0 flagged for review
+2019-03-08_Vol284_No05: 12 articles, 0 failed, 0 flagged for review
+2019-04-19_Vol284_No08: 8 articles, 0 failed, 0 flagged for review
+2019-05-03_Vol284_No09: 9 articles, 0 failed, 0 flagged for review
+2019-02-22_Vol284_No04: 11 articles, 0 failed, 0 flagged for review
+2019-05-17_Vol284_No10: 11 articles, 0 failed, 0 flagged for review
+2019-02-08_Vol284_No03: 11 articles, 0 failed, 0 flagged for review
+2019-01-11_Vol284_No01: 10 articles, 0 failed, 0 flagged for review
+2019-09-06_Vol285_No05: 10 articles, 0 failed, 0 flagged for review
+2019-09-20_Vol285_No06: 14 articles, 0 failed, 0 flagged for review
+2019-10-18_Vol285_No08: 11 articles, 0 failed, 0 flagged for review
+2019-07-12_Vol285_No01: 7 articles, 0 failed, 0 flagged for review
+2019-08-23_Vol285_No04: 11 articles, 0 failed, 0 flagged for review
+2019-06-14_Vol284_No12: 14 articles, 0 failed, 0 flagged for review
+2019-10-04_Vol285_No07: 9 articles, 0 failed, 0 flagged for review
+2019-12-27_Vol285_No13: 10 articles, 0 failed, 0 flagged for review
+2019-11-15_Vol285_No10: 12 articles, 0 failed, 0 flagged for review
+2019-11-29_Vol285_No11: 10 articles, 0 failed, 0 flagged for review
+2019-06-28_Vol284_No13: 9 articles, 0 failed, 0 flagged for review
+2019-04-05_Vol284_No07: 12 articles, 0 failed, 0 flagged for review
+2019-12-13_Vol285_No12: 12 articles, 0 failed, 0 flagged for review
+2019-05-31_Vol284_No11: 17 articles, 0 failed, 0 flagged for review
+2019-08-09_Vol285_No03: 15 articles, 0 failed, 0 flagged for review
+2019-07-26_Vol285_No02: 11 articles, 0 failed, 0 flagged for review
+9 PDF(s) need manual handling -- see skipped_pdfs.txt
+job finished at Mon Aug 24 14:30:05 EDT 2026
+job started on scc-pb6 at Mon Aug 24 14:38:38 EDT 2026
+26 PDFs in this run, 26 not yet done
+identify round 1: submitted batch 1/3 (10 requests) -> msgbatch_013SJ5BRkBKMTGMfw8GWPUiN
+identify round 1: submitted batch 2/3 (9 requests) -> msgbatch_01FvhZpggxzgddBMs5RCFrZG
+identify round 1: submitted batch 3/3 (7 requests) -> msgbatch_01JXk5ae5URMSqhPbedbaoiZ
+identify round 1: batch msgbatch_013SJ5BRkBKMTGMfw8GWPUiN ended (10 succeeded, 0 errored)
+identify round 1: batch msgbatch_01FvhZpggxzgddBMs5RCFrZG ended (9 succeeded, 0 errored)
+identify round 1: batch msgbatch_01JXk5ae5URMSqhPbedbaoiZ ended (6 succeeded, 1 errored)
+identify round 1: all 3 batch(es) ended
+  identify PARSE FAILED for 2020-03-20_Vol286_No06: Expecting ',' delimiter: line 1 column 1264 (char 1263)
+  identify PARSE FAILED for 2020-09-18_Vol287_No05: no JSON found in response: ''
+  identify PARSE FAILED for 2020-06-26_Vol286_No13: no JSON found in response: ''
+  identify FAILED for 2020-10-30_Vol287_No09 (permanent, not retrying): invalid_request_error: messages.0.content.0.document.source.base64: PDF exceeds 32 MB maximum: 42851168 bytes > 33554432 bytes
+  identify PARSE FAILED for 2020-11-13_Vol287_No10: no JSON found in response: ''
+identify round 2: submitted batch 1/1 (4 requests) -> msgbatch_01TDkWZuaSxZfQJeAqufnku1
+identify round 2: batch msgbatch_01TDkWZuaSxZfQJeAqufnku1 ended (4 succeeded, 0 errored)
+identify round 2: all 1 batch(es) ended
+2020-10-30_Vol287_No09: identify failed permanently -- wrote 2020-10-30_Vol287_No09.errors.json so this isn't silently missing
+10 PDF(s) need manual handling -- see skipped_pdfs.txt
+extract round 1: submitted batch 1/2 (177 requests) -> msgbatch_0158JmL98XzSQTDBP4Uk1DzD
+extract round 1: submitted batch 2/2 (130 requests) -> msgbatch_01VJwDMpqS2ia2kjkZYQCkoW
+extract round 1: still waiting after 4.6m -- msgbatch_0158JmL98XzSQTDBP4Uk1DzD: processing=177 succeeded=0 errored=0; msgbatch_01VJwDMpqS2ia2kjkZYQCkoW: processing=130 succeeded=0 errored=0
+extract round 1: still waiting after 9.7m -- msgbatch_0158JmL98XzSQTDBP4Uk1DzD: processing=177 succeeded=0 errored=0; msgbatch_01VJwDMpqS2ia2kjkZYQCkoW: processing=130 succeeded=0 errored=0
+extract round 1: still waiting after 14.8m -- msgbatch_0158JmL98XzSQTDBP4Uk1DzD: processing=177 succeeded=0 errored=0; msgbatch_01VJwDMpqS2ia2kjkZYQCkoW: processing=130 succeeded=0 errored=0
+extract round 1: batch msgbatch_0158JmL98XzSQTDBP4Uk1DzD ended (177 succeeded, 0 errored)
+extract round 1: batch msgbatch_01VJwDMpqS2ia2kjkZYQCkoW ended (130 succeeded, 0 errored)
+extract round 1: all 2 batch(es) ended
+  extract TRUNCATED for 2020-06-12_Vol286_No12#0, retrying with max_tokens=16000
+  extract TRUNCATED for 2020-07-24_Vol287_No02#0, retrying with max_tokens=16000
+  extract TRUNCATED for 2020-12-11_Vol287_No12#0, retrying with max_tokens=16000
+extract round 2: submitted batch 1/1 (25 requests) -> msgbatch_01WWmU3pY99ZhV9tAFRNqEag
+extract round 2: batch msgbatch_01WWmU3pY99ZhV9tAFRNqEag ended (25 succeeded, 0 errored)
+extract round 2: all 1 batch(es) ended
+  extract TRUNCATED for 2020-11-13_Vol287_No10#8, retrying with max_tokens=16000
+  extract TRUNCATED for 2020-09-04_Vol287_No05#0, retrying with max_tokens=16000
+extract round 3: submitted batch 1/1 (11 requests) -> msgbatch_015PXCwLLfobej5U2rC4xauT
+extract round 3: batch msgbatch_015PXCwLLfobej5U2rC4xauT ended (11 succeeded, 0 errored)
+extract round 3: all 1 batch(es) ended
+extract round 4: submitted batch 1/1 (7 requests) -> msgbatch_01SobvSbCNeVce2FRt9XqSCA
+extract round 4: batch msgbatch_01SobvSbCNeVce2FRt9XqSCA ended (7 succeeded, 0 errored)
+extract round 4: all 1 batch(es) ended
+2020-01-24_Vol286_No02: 11 articles, 0 failed, 0 flagged for review
+2020-02-07_Vol286_No03: 14 articles, 0 failed, 0 flagged for review
+2020-04-03_Vol286_No07: 12 articles, 0 failed, 0 flagged for review
+2020-02-21_Vol286_No04: 7 articles, 0 failed, 0 flagged for review
+2020-04-17_Vol286_No08: 12 articles, 0 failed, 0 flagged for review
+2020-05-15_Vol286_No10: 11 articles, 0 failed, 2 flagged for review
+2020-05-01_Vol286_No09: 11 articles, 0 failed, 0 flagged for review
+2020-01-10_Vol286_No01: 12 articles, 0 failed, 0 flagged for review
+2020-03-06_Vol286_No05: 14 articles, 0 failed, 0 flagged for review
+2020-07-10_Vol287_No01: 16 articles, 0 failed, 0 flagged for review
+2020-08-07_Vol287_No03: 12 articles, 0 failed, 0 flagged for review
+2020-07-24_Vol287_No02: 6 articles, 0 failed, 0 flagged for review
+2020-06-12_Vol286_No12: 12 articles, 0 failed, 0 flagged for review
+2020-08-21_Vol287_No04: 12 articles, 0 failed, 1 flagged for review
+2020-05-29_Vol286_No11: 12 articles, 0 failed, 0 flagged for review
+2020-09-04_Vol287_No05: 12 articles, 0 failed, 1 flagged for review
+2020-12-11_Vol287_No12: 16 articles, 0 failed, 0 flagged for review
+2020-12-24_Vol287_No13: 15 articles, 0 failed, 0 flagged for review
+2020-11-27_Vol287_No11: 13 articles, 0 failed, 0 flagged for review
+2020-10-02_Vol287_No07: 9 articles, 0 failed, 0 flagged for review
+2020-10-16_Vol287_No08: 14 articles, 0 failed, 0 flagged for review
+2020-06-26_Vol286_No13: 12 articles, 0 failed, 1 flagged for review
+2020-03-20_Vol286_No06: 16 articles, 0 failed, 0 flagged for review
+2020-09-18_Vol287_No05: 16 articles, 0 failed, 1 flagged for review
+2020-11-13_Vol287_No10: 10 articles, 0 failed, 0 flagged for review
+10 PDF(s) need manual handling -- see skipped_pdfs.txt
+job finished at Mon Aug 24 15:14:02 EDT 2026
+job started on scc-wg2 at Mon Aug 24 15:44:12 EDT 2026
+52 PDFs in this run, 52 not yet done
+identify round 1: submitted batch 1/6 (9 requests) -> msgbatch_013YXdy5btbH6PERchbHhNxr
+identify round 1: submitted batch 2/6 (9 requests) -> msgbatch_01WDfgxHBjd5MCc6Ldzmzr2f
+identify round 1: submitted batch 3/6 (10 requests) -> msgbatch_013Zs4QcimevCQCKo4medwSC
+identify round 1: submitted batch 4/6 (9 requests) -> msgbatch_0187ftPbRwEojVzaobCX8338
+identify round 1: submitted batch 5/6 (11 requests) -> msgbatch_01BLYCnSYiE4WS31f33NdhbD
+identify round 1: submitted batch 6/6 (4 requests) -> msgbatch_014Ujof8Tm5RYdcVwv9wDy4V
+identify round 1: still waiting after 4.7m -- msgbatch_013YXdy5btbH6PERchbHhNxr: processing=9 succeeded=0 errored=0; msgbatch_01WDfgxHBjd5MCc6Ldzmzr2f: processing=9 succeeded=0 errored=0; msgbatch_014Ujof8Tm5RYdcVwv9wDy4V: processing=4 succeeded=0 errored=0; msgbatch_013Zs4QcimevCQCKo4medwSC: processing=10 succeeded=0 errored=0; msgbatch_0187ftPbRwEojVzaobCX8338: processing=9 succeeded=0 errored=0; msgbatch_01BLYCnSYiE4WS31f33NdhbD: processing=11 succeeded=0 errored=0
+identify round 1: batch msgbatch_013YXdy5btbH6PERchbHhNxr ended (9 succeeded, 0 errored)
+identify round 1: batch msgbatch_01WDfgxHBjd5MCc6Ldzmzr2f ended (9 succeeded, 0 errored)
+identify round 1: batch msgbatch_014Ujof8Tm5RYdcVwv9wDy4V ended (4 succeeded, 0 errored)
+identify round 1: batch msgbatch_013Zs4QcimevCQCKo4medwSC ended (10 succeeded, 0 errored)
+identify round 1: batch msgbatch_0187ftPbRwEojVzaobCX8338 ended (9 succeeded, 0 errored)
+identify round 1: batch msgbatch_01BLYCnSYiE4WS31f33NdhbD ended (11 succeeded, 0 errored)
+identify round 1: all 6 batch(es) ended
+  identify PARSE FAILED for 2021-06-11_Vol288_No12: no JSON found in response: ''
+  identify PARSE FAILED for 2021-08-20_Vol289_No04: no JSON found in response: ''
+  identify PARSE FAILED for 2021-05-14_Vol288_No10: no JSON found in response: ''
+  identify PARSE FAILED for 2022-02-18_Vol290_No04: no JSON found in response: ''
+  identify PARSE FAILED for 2022-12-09_Vol291_No12: no JSON found in response: ''
+identify round 2: submitted batch 1/1 (5 requests) -> msgbatch_01PxKmniLXq8yg37XfKUq3oU
+identify round 2: still waiting after 4.5m -- msgbatch_01PxKmniLXq8yg37XfKUq3oU: processing=5 succeeded=0 errored=0
+identify round 2: batch msgbatch_01PxKmniLXq8yg37XfKUq3oU ended (5 succeeded, 0 errored)
+identify round 2: all 1 batch(es) ended
+  identify PARSE FAILED for 2022-12-09_Vol291_No12: Expecting ',' delimiter: line 1 column 219 (char 218)
+identify round 3: submitted batch 1/1 (1 requests) -> msgbatch_01XxqLsUpJE5LLzkDs2WZf3w
+identify round 3: batch msgbatch_01XxqLsUpJE5LLzkDs2WZf3w ended (1 succeeded, 0 errored)
+identify round 3: all 1 batch(es) ended
+extract round 1: submitted batch 1/4 (159 requests) -> msgbatch_016jBFzMBUAmuHzM3WTbYS3L
+extract round 1: submitted batch 2/4 (162 requests) -> msgbatch_012QgrGwY1xoai8xYdwsXhZP
+extract round 1: submitted batch 3/4 (186 requests) -> msgbatch_01VS4iEkivv9bW4josUEubY7
+extract round 1: submitted batch 4/4 (87 requests) -> msgbatch_01QohmoTeFsZLvKWPVY1C9gS
+extract round 1: still waiting after 4.7m -- msgbatch_012QgrGwY1xoai8xYdwsXhZP: processing=162 succeeded=0 errored=0; msgbatch_01QohmoTeFsZLvKWPVY1C9gS: processing=87 succeeded=0 errored=0; msgbatch_016jBFzMBUAmuHzM3WTbYS3L: processing=159 succeeded=0 errored=0; msgbatch_01VS4iEkivv9bW4josUEubY7: processing=186 succeeded=0 errored=0
+extract round 1: batch msgbatch_012QgrGwY1xoai8xYdwsXhZP ended (162 succeeded, 0 errored)
+extract round 1: batch msgbatch_01QohmoTeFsZLvKWPVY1C9gS ended (87 succeeded, 0 errored)
+extract round 1: batch msgbatch_01VS4iEkivv9bW4josUEubY7 ended (186 succeeded, 0 errored)
+extract round 1: batch msgbatch_016jBFzMBUAmuHzM3WTbYS3L ended (159 succeeded, 0 errored)
+extract round 1: all 4 batch(es) ended
+  extract TRUNCATED for 2021-04-02_Vol288_No07#8, retrying with max_tokens=16000
+  extract TRUNCATED for 2021-07-09_Vol289_No01#0, retrying with max_tokens=16000
+  extract TRUNCATED for 2021-02-19_Vol288_No04#7, retrying with max_tokens=16000
+  extract TRUNCATED for 2021-11-12_Vol289_No10#7, retrying with max_tokens=16000
+  extract TRUNCATED for 2021-12-10_Vol289_No12#1, retrying with max_tokens=16000
+  extract TRUNCATED for 2022-12-09_Vol291_No12#0, retrying with max_tokens=16000
+extract round 2: submitted batch 1/1 (35 requests) -> msgbatch_01JYKgeoLDYsSkhapyeph4Ai
+extract round 2: still waiting after 4.5m -- msgbatch_01JYKgeoLDYsSkhapyeph4Ai: processing=35 succeeded=0 errored=0
+extract round 2: batch msgbatch_01JYKgeoLDYsSkhapyeph4Ai ended (35 succeeded, 0 errored)
+extract round 2: all 1 batch(es) ended
+  extract TRUNCATED for 2021-02-19_Vol288_No04#7, retrying with max_tokens=32000
+  extract TRUNCATED for 2022-05-27_Vol290_No11#1, retrying with max_tokens=16000
+extract round 3: submitted batch 1/1 (13 requests) -> msgbatch_01HVRMfoon3VYLZFMFLMzwKT
+extract round 3: still waiting after 4.5m -- msgbatch_01HVRMfoon3VYLZFMFLMzwKT: processing=13 succeeded=0 errored=0
+extract round 3: still waiting after 9.6m -- msgbatch_01HVRMfoon3VYLZFMFLMzwKT: processing=13 succeeded=0 errored=0
+extract round 3: batch msgbatch_01HVRMfoon3VYLZFMFLMzwKT ended (13 succeeded, 0 errored)
+extract round 3: all 1 batch(es) ended
+extract round 4: submitted batch 1/1 (8 requests) -> msgbatch_01UcLbjTqDTUAU2tKAL1ih81
+extract round 4: batch msgbatch_01UcLbjTqDTUAU2tKAL1ih81 ended (8 succeeded, 0 errored)
+extract round 4: all 1 batch(es) ended
+2021-03-05_Vol288_No05: 11 articles, 0 failed, 0 flagged for review
+2021-04-02_Vol288_No07: 11 articles, 0 failed, 0 flagged for review
+2021-02-05_Vol288_No03: 12 articles, 0 failed, 1 flagged for review
+2021-02-19_Vol288_No04: 8 articles, 0 failed, 0 flagged for review
+2021-01-22_Vol288_No02: 13 articles, 0 failed, 1 flagged for review
+2021-04-16_Vol288_No08: 16 articles, 0 failed, 0 flagged for review
+2021-04-30_Vol288_No09: 10 articles, 0 failed, 0 flagged for review
+2021-01-08_Vol288_No01: 12 articles, 0 failed, 1 flagged for review
+2021-03-19_Vol288_No06: 18 articles, 0 failed, 0 flagged for review
+2021-07-23_Vol289_No02: 6 articles, 0 failed, 0 flagged for review
+2021-08-06_Vol289_No03: 16 articles, 0 failed, 0 flagged for review
+2021-09-03_Vol289_No05: 12 articles, 0 failed, 0 flagged for review
+2021-06-25_Vol288_No13: 13 articles, 0 failed, 1 flagged for review
+2021-07-09_Vol289_No01: 12 articles, 0 failed, 0 flagged for review
+2021-05-28_Vol288_No11: 10 articles, 0 failed, 0 flagged for review
+2021-10-29_Vol289_No09: 14 articles, 0 failed, 0 flagged for review
+2021-10-01_Vol289_No07: 10 articles, 0 failed, 0 flagged for review
+2022-01-07_Vol290_No01: 10 articles, 0 failed, 0 flagged for review
+2022-01-21_Vol290_No02: 15 articles, 0 failed, 0 flagged for review
+2021-11-12_Vol289_No10: 8 articles, 0 failed, 0 flagged for review
+2021-12-24_Vol289_No13: 11 articles, 0 failed, 0 flagged for review
+2021-11-26_Vol289_No11: 8 articles, 0 failed, 0 flagged for review
+2021-09-17_Vol289_No06: 14 articles, 0 failed, 0 flagged for review
+2021-12-10_Vol289_No12: 11 articles, 0 failed, 0 flagged for review
+2021-10-15_Vol289_No08: 12 articles, 0 failed, 0 flagged for review
+2022-03-18_Vol290_No06: 12 articles, 0 failed, 0 flagged for review
+2022-04-29_Vol290_No09: 11 articles, 0 failed, 0 flagged for review
+2022-05-27_Vol290_No11: 10 articles, 0 failed, 0 flagged for review
+2022-04-01_Vol290_No07: 12 articles, 0 failed, 0 flagged for review
+2022-05-13_Vol290_No10: 15 articles, 0 failed, 0 flagged for review
+2022-02-04_Vol290_No03: 13 articles, 0 failed, 1 flagged for review
+2022-03-04_Vol290_No05: 12 articles, 0 failed, 0 flagged for review
+2022-04-15_Vol290_No08: 12 articles, 0 failed, 0 flagged for review
+2022-07-22_Vol291_No02: 5 articles, 0 failed, 0 flagged for review
+2022-08-19_Vol291_No04: 11 articles, 0 failed, 0 flagged for review
+2022-09-16_Vol291_No06: 13 articles, 0 failed, 0 flagged for review
+2022-06-10_Vol290_No12: 13 articles, 0 failed, 0 flagged for review
+2022-08-05_Vol291_No03: 12 articles, 0 failed, 0 flagged for review
+2022-10-28_Vol291_No09: 10 articles, 0 failed, 0 flagged for review
+2022-10-14_Vol291_No08: 14 articles, 0 failed, 0 flagged for review
+2022-06-24_Vol290_No13: 12 articles, 0 failed, 0 flagged for review
+2022-07-08_Vol291_No01: 10 articles, 0 failed, 0 flagged for review
+2022-09-30_Vol291_No07: 8 articles, 0 failed, 0 flagged for review
+2022-09-02_Vol291_No05: 9 articles, 0 failed, 1 flagged for review
+2022-11-25_Vol291_No11: 12 articles, 0 failed, 0 flagged for review
+2022-12-23_Vol291_No13: 11 articles, 0 failed, 0 flagged for review
+2022-11-11_Vol291_No10: 7 articles, 0 failed, 0 flagged for review
+2022-02-18_Vol290_No04: 7 articles, 0 failed, 0 flagged for review
+2021-05-14_Vol288_No10: 11 articles, 0 failed, 0 flagged for review
+2021-06-11_Vol288_No12: 12 articles, 0 failed, 0 flagged for review
+2021-08-20_Vol289_No04: 14 articles, 0 failed, 1 flagged for review
+2022-12-09_Vol291_No12: 13 articles, 0 failed, 0 flagged for review
+10 PDF(s) need manual handling -- see skipped_pdfs.txt
+job finished at Mon Aug 24 16:35:14 EDT 2026
+job started on scc-wm3 at Mon Aug 24 16:52:09 EDT 2026
+84 PDFs in this run, 84 not yet done
+identify round 1: submitted batch 1/3 (12 requests) -> msgbatch_017Pb7478FXamNV1rRUnQDis
+identify round 1: submitted batch 2/3 (51 requests) -> msgbatch_01UzFcLEwkGscM6qEEWfPLhm
+identify round 1: submitted batch 3/3 (21 requests) -> msgbatch_01YYoxK168cjPQTShuryvxx2
+identify round 1: batch msgbatch_01YYoxK168cjPQTShuryvxx2 ended (21 succeeded, 0 errored)
+identify round 1: batch msgbatch_017Pb7478FXamNV1rRUnQDis ended (11 succeeded, 1 errored)
+identify round 1: batch msgbatch_01UzFcLEwkGscM6qEEWfPLhm ended (51 succeeded, 0 errored)
+identify round 1: all 3 batch(es) ended
+  identify FAILED for 2023-03-17_Vol292_No06 (permanent, not retrying): invalid_request_error: messages.0.content.0.document.source.base64: PDF exceeds 32 MB maximum: 33958404 bytes > 33554432 bytes
+  identify PARSE FAILED for 2024-04-12_Vol294_No08: no JSON found in response: ''
+  identify PARSE FAILED for 2023-07-21_Vol293_No02: no JSON found in response: ''
+  identify PARSE FAILED for 2024-01-05_Vol294_No01: no JSON found in response: ''
+  identify PARSE FAILED for 2024-02-02_Vol294_No03: Expecting ',' delimiter: line 1 column 118 (char 117)
+  identify PARSE FAILED for 2025-09-19_Vol296_No19: no JSON found in response: ''
+identify round 2: submitted batch 1/1 (5 requests) -> msgbatch_01TWmvurWmFLbTHK2Fj8xfkM
+identify round 2: batch msgbatch_01TWmvurWmFLbTHK2Fj8xfkM ended (5 succeeded, 0 errored)
+identify round 2: all 1 batch(es) ended
+  identify PARSE FAILED for 2024-04-12_Vol294_No08: Expecting ',' delimiter: line 1 column 658 (char 657)
+  identify PARSE FAILED for 2024-01-05_Vol294_No01: no JSON found in response: ''
+identify round 3: submitted batch 1/1 (2 requests) -> msgbatch_019Q428BbfZqHZ3D4BcTPHDV
+identify round 3: batch msgbatch_019Q428BbfZqHZ3D4BcTPHDV ended (2 succeeded, 0 errored)
+identify round 3: all 1 batch(es) ended
+  identify PARSE FAILED for 2024-04-12_Vol294_No08: no JSON found in response: ''
+  identify PARSE FAILED for 2024-01-05_Vol294_No01: no JSON found in response: ''
+  identify exhausted 3 retry rounds for 2024-04-12_Vol294_No08: parse error: no JSON found in response: ''
+  identify exhausted 3 retry rounds for 2024-01-05_Vol294_No01: parse error: no JSON found in response: ''
+2023-03-17_Vol292_No06: identify failed permanently -- wrote 2023-03-17_Vol292_No06.errors.json so this isn't silently missing
+2024-04-12_Vol294_No08: identify failed permanently -- wrote 2024-04-12_Vol294_No08.errors.json so this isn't silently missing
+2024-01-05_Vol294_No01: identify failed permanently -- wrote 2024-01-05_Vol294_No01.errors.json so this isn't silently missing
+13 PDF(s) need manual handling -- see skipped_pdfs.txt
+extract round 1: submitted batch 1/2 (705 requests) -> msgbatch_018jPeT7xHhMzm7jnxryXBZh
+extract round 1: submitted batch 2/2 (236 requests) -> msgbatch_01FUHDueFc5iTc4niFZZL7LZ
+extract round 1: batch msgbatch_01FUHDueFc5iTc4niFZZL7LZ ended (236 succeeded, 0 errored)
+extract round 1: batch msgbatch_018jPeT7xHhMzm7jnxryXBZh ended (705 succeeded, 0 errored)
+extract round 1: all 2 batch(es) ended
+  extract TRUNCATED for 2024-05-10_Vol294_No10#4, retrying with max_tokens=16000
+  extract TRUNCATED for 2024-04-26_Vol294_No09#10, retrying with max_tokens=16000
+  extract TRUNCATED for 2023-04-14_Vol292_No08#0, retrying with max_tokens=16000
+extract round 2: submitted batch 1/1 (64 requests) -> msgbatch_01SnrVxya6utN4jPSrmvr49v
+extract round 2: batch msgbatch_01SnrVxya6utN4jPSrmvr49v ended (64 succeeded, 0 errored)
+extract round 2: all 1 batch(es) ended
+extract round 3: submitted batch 1/1 (37 requests) -> msgbatch_01MUyhc31Ns6GLbn93Mxvok3
+extract round 3: batch msgbatch_01MUyhc31Ns6GLbn93Mxvok3 ended (37 succeeded, 0 errored)
+extract round 3: all 1 batch(es) ended
+extract round 4: submitted batch 1/1 (24 requests) -> msgbatch_01WoEWmSCNCznJjZHjM5MW11
+extract round 4: batch msgbatch_01WoEWmSCNCznJjZHjM5MW11 ended (24 succeeded, 0 errored)
+extract round 4: all 1 batch(es) ended
+2023-04-28_Vol292_No09: 9 articles, 0 failed, 0 flagged for review
+2023-01-20_Vol292_No02: 10 articles, 0 failed, 0 flagged for review
+2023-06-09_Vol292_No12: 18 articles, 0 failed, 0 flagged for review
+2023-02-17_Vol292_No04: 7 articles, 0 failed, 0 flagged for review
+2023-05-26_Vol292_No11: 12 articles, 0 failed, 0 flagged for review
+2023-05-12_Vol292_No10: 16 articles, 0 failed, 1 flagged for review
+2023-03-31_Vol292_No07: 12 articles, 0 failed, 0 flagged for review
+2023-03-03_Vol292_No05: 11 articles, 0 failed, 0 flagged for review
+2023-02-03_Vol292_No03: 12 articles, 0 failed, 1 flagged for review
+2023-04-14_Vol292_No08: 9 articles, 0 failed, 0 flagged for review
+2023-06-23_Vol292_No13: 11 articles, 0 failed, 0 flagged for review
+2025-04-18_Vol296_No08: 14 articles, 0 failed, 0 flagged for review
+2023-07-07_Vol293_No01: 12 articles, 0 failed, 0 flagged for review
+2024-02-16_Vol294_No04: 7 articles, 0 failed, 0 flagged for review
+2024-08-02_Vol295_No02: 12 articles, 0 failed, 1 flagged for review
+2024-05-24_Vol294_No11: 9 articles, 0 failed, 0 flagged for review
+2025-05-16_Vol296_No10: 9 articles, 0 failed, 1 flagged for review
+2024-07-05_Vol294_No14: 17 articles, 0 failed, 0 flagged for review
+2024-04-26_Vol294_No09: 13 articles, 0 failed, 0 flagged for review
+2023-08-04_Vol293_No03: 11 articles, 0 failed, 0 flagged for review
+2024-03-29_Vol294_No07: 8 articles, 0 failed, 1 flagged for review
+2024-11-22_Vol295_No10: 11 articles, 0 failed, 0 flagged for review
+2023-12-22_Vol293_No13: 10 articles, 0 failed, 0 flagged for review
+2024-09-27_Vol295_No06: 17 articles, 0 failed, 0 flagged for review
+2023-08-18_Vol293_No04: 10 articles, 0 failed, 0 flagged for review
+2025-05-30_Vol296_No11: 13 articles, 0 failed, 1 flagged for review
+2025-06-27_Vol296_No13: 14 articles, 0 failed, 0 flagged for review
+2025-01-24_Vol296_No02: 9 articles, 0 failed, 0 flagged for review
+2024-06-07_Vol294_No12: 9 articles, 0 failed, 0 flagged for review
+2024-03-01_Vol294_No05: 12 articles, 0 failed, 0 flagged for review
+2024-11-08_Vol295_No09: 9 articles, 0 failed, 0 flagged for review
+2023-10-13_Vol293_No08: 11 articles, 0 failed, 0 flagged for review
+2025-03-21_Vol296_No06: 10 articles, 0 failed, 0 flagged for review
+2024-06-21_Vol294_No13: 12 articles, 0 failed, 0 flagged for review
+2024-05-10_Vol294_No10: 11 articles, 0 failed, 0 flagged for review
+2025-02-21_Vol296_No04: 7 articles, 0 failed, 0 flagged for review
+2025-05-02_Vol296_No09: 10 articles, 0 failed, 0 flagged for review
+2023-09-29_Vol293_No07: 12 articles, 0 failed, 0 flagged for review
+2024-10-11_Vol295_No07: 12 articles, 0 failed, 0 flagged for review
+2023-11-24_Vol293_No11: 10 articles, 0 failed, 1 flagged for review
+2023-12-08_Vol293_No12: 15 articles, 0 failed, 2 flagged for review
+2024-10-25_Vol295_No08: 14 articles, 0 failed, 0 flagged for review
+2025-03-07_Vol296_No05: 14 articles, 0 failed, 0 flagged for review
+2024-07-19_Vol295_No01: 11 articles, 0 failed, 0 flagged for review
+2024-09-13_Vol295_No05: 13 articles, 0 failed, 0 flagged for review
+2025-07-11_Vol296_No14: 12 articles, 0 failed, 0 flagged for review
+2023-11-10_Vol293_No10: 10 articles, 0 failed, 1 flagged for review
+2023-10-27_Vol293_No09: 14 articles, 0 failed, 2 flagged for review
+2025-06-13_Vol296_No12: 13 articles, 0 failed, 0 flagged for review
+2024-12-13_Vol295_No11: 19 articles, 0 failed, 0 flagged for review
+2024-03-15_Vol294_No06: 8 articles, 0 failed, 0 flagged for review
+2025-02-07_Vol296_No03: 11 articles, 0 failed, 1 flagged for review
+2023-09-15_Vol293_No06: 14 articles, 0 failed, 0 flagged for review
+2024-01-19_Vol294_No02: 10 articles, 0 failed, 1 flagged for review
+2025-01-10_Vol296_No01: 10 articles, 0 failed, 0 flagged for review
+2024-08-16_Vol295_No03: 14 articles, 0 failed, 1 flagged for review
+2025-04-04_Vol296_No07: 12 articles, 0 failed, 0 flagged for review
+2024-08-30_Vol295_No04: 12 articles, 0 failed, 1 flagged for review
+2025-10-31_Vol296_No22: 11 articles, 0 failed, 1 flagged for review
+2026-02-06_Vol297_No03: 14 articles, 0 failed, 1 flagged for review
+2025-09-05_Vol296_No18: 12 articles, 0 failed, 0 flagged for review
+2025-10-03_Vol296_No20: 9 articles, 0 failed, 0 flagged for review
+2025-11-28_Vol296_No24: 14 articles, 0 failed, 1 flagged for review
+2026-02-20_Vol297_No04: 8 articles, 0 failed, 0 flagged for review
+2025-08-08_Vol296_No16: 12 articles, 0 failed, 0 flagged for review
+2026-03-06_Vol297_No05: 13 articles, 0 failed, 1 flagged for review
+2025-07-25_Vol296_No15: 6 articles, 0 failed, 0 flagged for review
+2026-03-20_Vol297_No06: 11 articles, 0 failed, 0 flagged for review
+2025-08-22_Vol296_No17: 13 articles, 0 failed, 0 flagged for review
+2026-01-09_Vol297_No01: 12 articles, 0 failed, 1 flagged for review
+2026-05-01_Vol297_No09: 12 articles, 0 failed, 0 flagged for review
+2026-04-03_Vol297_No07: 14 articles, 0 failed, 0 flagged for review
+2026-01-23_Vol297_No02: 12 articles, 0 failed, 0 flagged for review
+2026-05-15_Vol297_No10: 10 articles, 0 failed, 0 flagged for review
+2026-04-17_Vol297_No08: 13 articles, 0 failed, 0 flagged for review
+2025-11-14_Vol296_No23: 10 articles, 0 failed, 0 flagged for review
+2025-12-12_Vol296_No25: 14 articles, 0 failed, 0 flagged for review
+2025-10-17_Vol296_No21: 12 articles, 0 failed, 1 flagged for review
+2024-02-02_Vol294_No03: 11 articles, 0 failed, 0 flagged for review
+2023-07-21_Vol293_No02: 8 articles, 0 failed, 1 flagged for review
+2025-09-19_Vol296_No19: 16 articles, 0 failed, 3 flagged for review
+13 PDF(s) need manual handling -- see skipped_pdfs.txt
+job finished at Mon Aug 24 17:18:35 EDT 2026
