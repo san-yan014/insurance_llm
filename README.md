@@ -40,5 +40,3 @@ Merges per-issue JSON into one file and handles split-half issues. PDFs that fai
 ```bash
 qsub run_batch_pipeline.sh
 ```
-
-TODO: commands for stages 2 and 3, Python version, API key setup.
