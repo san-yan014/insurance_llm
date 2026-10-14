@@ -33,7 +33,6 @@ Merges per-issue JSON into one file and handles split-half issues. PDFs that fai
 - Random sample from the combined JSON.
 - Haiku relevance filter, then Sonnet classification, plus client-education and relationship-quality refinement passes.
 - Processed articles are logged in persistent JSON files, so nothing is reprocessed across runs.
-- Stops at 150 unique classified articles (`article_key.nunique()`).
 - Output xlsx columns: `title, url, date, publication, article_key, topic, framing, relevant_text, reason, other_theme`. One row per snippet.
 
 ## Usage
